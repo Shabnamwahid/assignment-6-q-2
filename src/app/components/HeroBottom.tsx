@@ -13,7 +13,7 @@ const HeroBottom = () => {
           Discover a wide range of courses covering a variety of subjects, taught by expert instructors.
         </p>
       </div>
-      <div className="flex sm:flex-col md:flex-row gap-6 justify-start w-full mt-20">
+      <div className="flex sm:flex-col md:flex-row sm:items-center gap-6 justify-start w-full mt-20">
         
         {/* Card 1 */}
         <div className="w-[400px] h-auto p-4 gap-2 rounded-md bg-[#F7F7F7] flex">

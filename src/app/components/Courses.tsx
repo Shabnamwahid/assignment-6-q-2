@@ -208,11 +208,13 @@ const Courses = () => {
     </div>
     </div>
 
-  <div className=" sm:items-center sm:justify-center md:items-center md:justify-center flex justify-center items-center w-full mt-[40px] gap-8 pr-16 pl-16 pt-8 pb-8 px-16">
-  <button className="bg-white text-black text-[16px] px-[24px] py-[12px] rounded-md border-[2px] border-black">
-    View All Courses
-  </button>
-</div>
+    <div className="flex justify-center mt-20 sm:items-start md:items-center sm:justify-start sm:pr-24 md:pr-0 w-full ml-96 pl-[120px]">
+        <div className="w-[200px] h-[58px] px-3 py-1 gap-2 rounded-md border-t border-l border-r border-b border-black ">
+          <button className="w-full px-2 py-2 text-black mt-1 mb-2 font-semibold text-base rounded-md">
+            View All Courses
+          </button>
+        </div>
+      </div>
 </div>
 </div>
 

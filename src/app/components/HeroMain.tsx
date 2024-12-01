@@ -9,12 +9,12 @@ const HeroMain = () => {
        sm:items-center sm:gap-4 sm:bg-[#ffffff] sm:overflow-hidden"
     >
       {/* Heading */}
-      <h1 className="text-2xl font-bold gap-6 mt-20 sm:text-center sm:mb-6">
+      <h1 className="text-2xl font-bold gap-10 mt-20 sm:text-center sm:mb-6">
         Trusted by 2000+ companies <br /> worldwide.
       </h1>
 
       
-      <div className="flex flex-row mt-4">
+      <div className="flex flex-row mt-4 pl-10">
       
         <Image src="/images/logo.png" alt="Logo 1" width={120} height={120} />
         <Image src="/images/Airbnb.png" alt="Airbnb Logo" width={120} height={120} />

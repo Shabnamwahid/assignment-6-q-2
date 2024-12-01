@@ -47,7 +47,7 @@ const Footer = () => {
       {/* Footer middle */}
       <div className="footer-mid grid mt-40 md:grid-cols-4 sm:grid-cols-1 sm:place-items-center gap-8 w-full px-4 sm:px-8 ">
         {/* Logo */}
-        <div className="col-main flex justify-center items-start">
+        <div className="col-main flex justify-center items-start mb-40">
           <Image src="/images/logo.jpg" height={100} width={100} alt="logo" />
         </div>
 

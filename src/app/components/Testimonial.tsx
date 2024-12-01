@@ -92,7 +92,7 @@ const Testimonial = () => {
     <div >
       <div className="flex justify-normal sm:ml-4 w-full h-[60px] pr-36 mt-20 sm:pr-4">
         {/* Dots */}
-        <div className="flex h-48 w-full gap-2 justify-start">
+        <div className="flex h-48 w-full gap-0 justify-start">
           <div className="w-8 h-8">
             <Image src="/images/Dot.png" alt="dot" width={8} height={8} />
           </div>

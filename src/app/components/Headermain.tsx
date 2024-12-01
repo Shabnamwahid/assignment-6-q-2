@@ -3,7 +3,7 @@ import Image from 'next/image';
 
 const Headermain = () => {
   return (
-    <div className="  md:bg-[#F7F7F7] sm:bg-[#ffffff] md:w-[1228px] width-full ">
+    <div className="  md:bg-[#F7F7F7] sm:bg-[#ffffff] md:w-[1228px] w-full  pl-4">
          <div className=" sm:mr-6 flex items-center mt-4 ">
           <Image
             className="ml-10"
@@ -19,7 +19,7 @@ const Headermain = () => {
         </div>
 
       <div
-        className="container items-center  mx-auto w-[1280px] h-[60px] px-16 
+        className="container items-center  mx-auto w-full h-[60px] px-16 
        flex justify-between mt-4 mb-4 bg-[#FFFFFF] ml-6">
          
         
