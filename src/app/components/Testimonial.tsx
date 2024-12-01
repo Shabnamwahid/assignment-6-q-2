@@ -27,7 +27,7 @@ const Testimonial = () => {
         </p>
         <div className="flex items-center mt-6">
           <Image
-            src="/images/Image (3).png"
+            src="/images/Image-(3).png"
             alt="James Nduku's image"
             width={56}
             height={56}
@@ -73,7 +73,7 @@ const Testimonial = () => {
         </p>
         <div className="flex items-center mt-6">
           <Image
-            src="/images/Image (6).png"
+            src="/images/Image-(6).png"
             alt="Stephen Kerubo's image"
             width={56}
             height={56}

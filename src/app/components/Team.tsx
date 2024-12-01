@@ -44,7 +44,7 @@ const Team = () => {
   {/* Card row 02 */}
   <div className="card-2 w-[394.67px] h-[273px] flex flex-col gap-[24px] mb-8 sm:mb-4">
     <div className="image w-full flex justify-center">
-      <Image src="/images/Image (2).png" alt="person" width={80} height={80} />
+      <Image src="/images/Image-(2).png" alt="person" width={80} height={80} />
     </div>
     <div className="w-full flex flex-col items-center gap-[16px]">
       <h1 className="w-full h-[30px] font-['Roboto'] text-[20px] font-semibold leading-[30px] text-center">
@@ -70,7 +70,7 @@ const Team = () => {
   {/* Card 3 */}
   <div className="card-3 w-[394.67px] h-[273px] flex flex-col gap-[24px] mb-8 sm:mb-4">
     <div className="image w-full flex justify-center">
-      <Image src="/images/image (3).png" alt="person" width={80} height={80} />
+      <Image src="/images/image-(3).png" alt="person" width={80} height={80} />
     </div>
     <div className="w-full flex flex-col items-center gap-[16px]">
       <h1 className="w-full h-[30px] font-['Roboto'] text-[20px] font-semibold leading-[30px] text-center">
@@ -100,7 +100,7 @@ const Team = () => {
         {/* Card 04 */}
         <div className="   sm:hidden md:block card-4 w-[394.67px] h-[273px] flex flex-col gap-[24px]">
           <div className="image w-full flex justify-center">
-            <Image src="/images/Image (4).png" alt="person" width={80} height={80} />
+            <Image src="/images/Image-(4).png" alt="person" width={80} height={80} />
           </div>
           <div className="w-full flex flex-col items-center gap-[16px]">
             <h1 className="w-full h-[30px] font-['Roboto'] text-[20px] font-semibold leading-[30px] text-center">
@@ -117,7 +117,7 @@ const Team = () => {
         {/* Card 05 */}
         <div className="  sm:hidden md:block card-5 w-[394.67px] h-[273px] flex flex-col gap-[24px]">
           <div className="image w-full flex justify-center">
-            <Image src="/images/Image (5).png" alt="person" width={80} height={80} />
+            <Image src="/images/Image-(5).png" alt="person" width={80} height={80} />
           </div>
           <div className="w-full flex flex-col items-center gap-[16px]">
             <h1 className="w-full h-[30px] font-['Roboto'] text-[20px] font-semibold leading-[30px] text-center">
@@ -133,7 +133,7 @@ const Team = () => {
         {/* Card 06 */}
         <div className=" sm:hidden md:block card-6 w-[394.67px] h-[273px] flex flex-col gap-[24px]">
           <div className="image w-full flex justify-center">
-            <Image src="/images/image (6).png" alt="person" width={80} height={80} />
+            <Image src="/images/image-(6).png" alt="person" width={80} height={80} />
           </div>
           <div className="w-full flex flex-col items-center gap-[16px]">
             <h1 className="w-full h-[30px] font-['Roboto'] text-[20px] font-semibold leading-[30px] text-center">

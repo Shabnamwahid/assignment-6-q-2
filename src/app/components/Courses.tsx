@@ -26,6 +26,8 @@ const Courses = () => {
       className="w-full h-[200px] object-cover rounded-t-md mb-[12px]"
       src="/images/img-1.jpg"
       alt="Course 1"
+      width={350}
+      height={400}
     />
     <div>
       <div className="flex justify-between items-center mb-[12px]">
@@ -57,6 +59,8 @@ const Courses = () => {
       className="w-full h-[200px] object-cover rounded-t-md mb-[12px]"
       src="/images/img-5.jpg"
       alt="Course 2"
+      width={350}
+      height={400}
     />
     <div>
       <div className="flex justify-between items-center mb-[12px]">
@@ -85,6 +89,8 @@ const Courses = () => {
       className="w-full h-[200px] object-cover rounded-t-md mb-[12px]"
       src="/images/img-4.jpg"
       alt="Course 3"
+      width={350}
+      height={400}
     />
     <div>
       <div className="flex justify-between items-center mb-[12px]">
@@ -116,6 +122,8 @@ const Courses = () => {
       className="w-full h-[200px] object-cover rounded-t-md mb-[12px]"
       src="/images/img-3.jpg"
       alt="Course 4"
+      width={350}
+      height={400}
     />
     <div>
       <div className="flex justify-between items-center mb-[12px]">
@@ -146,6 +154,8 @@ const Courses = () => {
       className="w-full h-[200px] object-cover rounded-t-md mb-[12px]"
       src="/images/img-2.jpg"
       alt="Course 5"
+      width={350}
+      height={400}
     />
     <div>
       <div className="flex justify-between items-center mb-[12px]">
@@ -174,6 +184,8 @@ const Courses = () => {
       className="w-full h-[200px] object-cover rounded-t-md mb-[12px]"
       src="/images/img-6.jpg"
       alt="Course 5"
+      width={350}
+      height={400}
     />
     <div>
       <div className="flex justify-between items-center mb-[12px]">
